@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="recommandapispring:war">
+    <output-path>$PROJECT_DIR$/../recommandapispring/target</output-path>
+    <root id="archive" name="recommand-api-spring.war">
+      <element id="artifact" artifact-name="recommandapispring:war exploded" />
+    </root>
+  </artifact>
+</component>
